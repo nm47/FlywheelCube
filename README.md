@@ -37,7 +37,7 @@ Niels Moeller – NielsMoeller9@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-https://github.com/nm47/FlywheelCube/License.txt
+https://github.com/nm47/FlywheelCube/blob/master/License.txt
 
 ## Contributing
 
