@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 009296002202906
+#
+DEF 009296002202906 J 0 40 Y Y 1 L N
+F0 "J" -200 150 50 H V L BNN
+F1 "009296002202906" -200 -250 50 H V L BNN
+F2 "AVX_009296002202906" 0 0 50 H I L BNN
+F3 "Manufacturer Recommendations" 0 0 50 H I L BNN
+F4 "031618" 0 0 50 H I L BNN
+F5 "AVX" 0 0 50 H I L BNN
+F6 "2.8 mm" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 100 200 100 N
+P 2 0 0 10 200 100 200 -200 N
+P 2 0 0 10 200 -200 -200 -200 N
+P 2 0 0 10 -200 -200 -200 100 N
+X 1 1 -400 0 200 R 40 40 0 0 P 
+X 1 1_1 -400 0 200 R 40 40 0 0 P 
+X 2 2 -400 -100 200 R 40 40 0 0 P 
+X 2 2_1 -400 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
