@@ -1,9 +1,6 @@
 # Flywheel Cube
  A reaction wheel LQR balanced cube using the teensy 3.5
-
-![Build Status][travis-image]
-
-
+ 
 #### Note: This project is a work in progress, the current status can be found under "Roadmap".
 
 ## Installation
@@ -48,7 +45,4 @@ https://github.com/nm47/FlywheelCube/blob/master/License.txt
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 
