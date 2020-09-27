@@ -1,7 +1,7 @@
 # Flywheel Cube
  A reaction wheel LQR balanced cube using the teensy 3.5
  
- ![Cube Picture Alt](Render-front.png)
+ ![Cube Picture Alt](Render-front.PNG)
  
 #### Note: This project is a work in progress, the current status can be found under "Roadmap".
 
